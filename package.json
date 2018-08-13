@@ -1,0 +1,27 @@
+{
+  "name": "beetrace-api",
+  "version": "1.0.0",
+  "description": "API for the IoT Honeynet Project BeeTracé",
+  "main": "honeypy-connector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlatyPew/BeeTrace-API.git"
+  },
+  "keywords": [
+    "honeynet",
+    "honeypot"
+  ],
+  "author": "PlatyPew",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PlatyPew/BeeTrace-API/issues"
+  },
+  "homepage": "https://github.com/PlatyPew/BeeTrace-API#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mongodb": "^3.1.1"
+  }
+}
